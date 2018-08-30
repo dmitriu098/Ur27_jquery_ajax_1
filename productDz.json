@@ -1,0 +1,30 @@
+{
+
+
+		"red":
+		[
+		{"name":"XS"},{"name":"S"},{"name":"M"},{"name":"L"},{"name":"XL"},{"name":"XXL"}
+		],
+		"blue":
+		[
+		{"name":"XS"},{"name":"S"},{"name":"M"},{"name":"L"},{"name":"XL"},{"name":"XXL"}
+		],
+		"green":
+		[
+		{"name":"XS"},{"name":"S"},{"name":"M"},{"name":"L"},{"name":"XL"},{"name":"XXL"}
+		],
+		"yellow":
+		[
+		{"name":"XS"},{"name":"S"},{"name":"M"},{"name":"L"},{"name":"XL"},{"name":"XXL"}
+		],
+		"black":
+		[
+		{"name":"XS"},{"name":"S"},{"name":"M"},{"name":"L"},{"name":"XL"},{"name":"XXL"}
+		],
+		"white":
+		[
+		{"name":"XS"},{"name":"S"},{"name":"M"},{"name":"L"},{"name":"XL"},{"name":"XXL"}
+		]
+
+
+}

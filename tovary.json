@@ -1,0 +1,10 @@
+{
+	"items":
+		[
+		{"name":"пальто", "price":80, "color":"white"},
+		{"name":"платье", "price":40, "color":"red"},
+		{"name":"джинсы", "price":50, "color":"blue"},
+		{"name":"куртка", "price":70, "color":"black"},
+		{"name":"рубашка", "price":450, "color":"yellow"}
+		]
+}
